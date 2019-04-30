@@ -30,7 +30,7 @@ author_profile: true
 
 <font face="helvetica" color="black" size="3"> 
  
-<p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a> </p>
+<p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a> </p>
 
 <p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
 	 
