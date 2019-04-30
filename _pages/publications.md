@@ -15,12 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+
+
 <font face="helvetica" color="green" size="5">
 <p>Patents</p></font>
 
 <font face="helvetica" color="black" size="3"> 
 
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Sensory network for persuasive and pervasive virtualization of physical sensors into renderable time service", Indian patent filed in November 2014 (Ref: 1145/KOL/2014).</p>
+
 
 <p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
 </font>
@@ -32,27 +36,28 @@ author_profile: true
  
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a> </p>
 
-<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+
+<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>P. Bhavathankar, <b>S. Chatterjee</b>, and S. Misra, “Link-Quality Aware Path Selection in the Presence of Proactive Jamming in Fallible Wireless Sensor Networks," <i>IEEE Transactions on Communications</i>, 2017. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>P. Bhavathankar, <b>S. Chatterjee</b>, and S. Misra, “Link-Quality Aware Path Selection in the Presence of Proactive Jamming in Fallible Wireless Sensor Networks," <i>IEEE Transactions on Communications</i>, 2017. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Analysis of Fog Computing: The Convergence of Cloud Computing to Green Computing," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/fog.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Analysis of Fog Computing: The Convergence of Cloud Computing to Green Computing," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/fog.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p><b>S. Chatterjee</b>, S. Misra, and S. U. Khan, “Optimal Data Center Scheduling for Quality of Service Management in Sensor-cloud," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p><b>S. Chatterjee</b>, S. Misra, and S. U. Khan, “Optimal Data Center Scheduling for Quality of Service Management in Sensor-cloud," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p><b>S. Chatterjee</b>, R. Ladia, and S. Misra, “A Dynamic Optimal Pricing Scheme for Heterogeneous Service-Oriented Architecture for Sensor-cloud Infrastructure," <i>IEEE Transactions on Services Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p><b>S. Chatterjee</b>, R. Ladia, and S. Misra, “A Dynamic Optimal Pricing Scheme for Heterogeneous Service-Oriented Architecture for Sensor-cloud Infrastructure," <i>IEEE Transactions on Services Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and A. K. Mandal, “QoS-Aware Sensor Allocation for Target Tracking in Sensor-Cloud," <i>Ad Hoc Networks, Elsevier</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and A. K. Mandal, “QoS-Aware Sensor Allocation for Target Tracking in Sensor-Cloud," <i>Ad Hoc Networks, Elsevier</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Evacuation and Emergency Management Using a Federated Cloud," <i>IEEE Cloud Computing Magazine</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/Mag.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Evacuation and Emergency Management Using a Federated Cloud," <i>IEEE Cloud Computing Magazine</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/Mag.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Misra, and S<b>. Chatterjee</b>, "Social Choice Considerations in Cloud-Assisted WBAN Architecture for Post-Disaster Healthcare: Data Aggregation and Channelization," <i>Information Sciences, Elsevier</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Misra, and S<b>. Chatterjee</b>, "Social Choice Considerations in Cloud-Assisted WBAN Architecture for Post-Disaster Healthcare: Data Aggregation and Channelization," <i>Information Sciences, Elsevier</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p><b>S. Chatterjee</b>, and S. Misra, "Sensor-Target Mapping in Presence of Overlapping Coverage: Tracking Using Sensor-Cloud," <i>IEEE Communication Letters</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p><b>S. Chatterjee</b>, and S. Misra, "Sensor-Target Mapping in Presence of Overlapping Coverage: Tracking Using Sensor-Cloud," <i>IEEE Communication Letters</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and M. S. Obaidat, "Mils-Cloud: A Sensor-Cloud Based Architecture for the Integration of Military Tri-Services Operations and Decision Making," <i>IEEE Systems Journal</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and M. S. Obaidat, "Mils-Cloud: A Sensor-Cloud Based Architecture for the Integration of Military Tri-Services Operations and Decision Making," <i>IEEE Systems Journal</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 	 
-<p>S. Misra, <b>S. Chatterjee</b>, and M. S. Obaidat, "On Theoretical Modeling of Sensor-Cloud: A Paradigm Shift From Wireless Sensor Network," <i>IEEE Systems Journal</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
+<p>S. Misra, <b>S. Chatterjee</b>, and M. S. Obaidat, "On Theoretical Modeling of Sensor-Cloud: A Paradigm Shift From Wireless Sensor Network," <i>IEEE Systems Journal</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="15" width="30"></a></p>
 
 </font>
 
@@ -78,4 +83,22 @@ author_profile: true
 <p><b>S. Chatterjee</b>, and S. Misra, “Dynamic and Adaptive Data Caching Mechanism for Virtualization within Sensor-Cloud," <i>IEEE International Conference on Advanced Networks and Telecommunication Systems (IEEE ANTS)</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="15" width="30"></a></p>
 
 </font>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
