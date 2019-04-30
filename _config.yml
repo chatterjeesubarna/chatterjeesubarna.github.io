@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Subarna Chatterjee"
 title_separator          : "-"
 name                     : &name "Subarna Chatterjee"
-description              : &description "post-doctoral researcher at Harvard university"
+description              : &description "Post-doctoral researcher at Harvard University"
 url                      : https://chatterjeesubarna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chatterjeesubarna/chatterjeesubarna.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Subarna Chatterjee"
   avatar           : "profile.png"
-  bio              : "post-doctoral researcher, Harvard University"
+  bio              : "Post-doctoral researcher, Harvard University"
   location         : "Cambridge, Massachusetts"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
