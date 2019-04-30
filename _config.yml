@@ -76,7 +76,7 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
+ 
 
 # Site Author
 author:
@@ -84,13 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doctoral researcher, Harvard University"
   location         : "Cambridge, Massachusetts"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Harvard University"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IxKgtaAAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "subarna@seas.harvard.edu, chatterjeesubarna@yahoo.com"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/chatterjeesubarna/"
   codepen          :
   dribbble         :
   flickr           :
