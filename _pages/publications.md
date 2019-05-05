@@ -16,10 +16,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<font face="helvetica" color="#3044F7" size="5">
+<p>Thesis</p></font>
+
+<font face="helvetica" color="black" size="3"> 
+
+<p><b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+
+</font>
 
 
-
-<font face="helvetica" color="green" size="5">
+<font face="helvetica" color="#3044F7" size="5">
 <p>Patents</p></font>
 
 <font face="helvetica" color="black" size="3"> 
@@ -30,7 +37,7 @@ author_profile: true
 <p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
 </font>
 
-<font face="helvetica" color="green" size="5">
+<font face="helvetica" color="#3044F7" size="5">
 <p>Journals</p></font>
 
 <font face="helvetica" color="black" size="3"> 
@@ -62,7 +69,7 @@ author_profile: true
 
 </font>
 
-<font face="helvetica" color="green" size="5">
+<font face="helvetica" color="#3044F7" size="5">
 <p>Conferences</p></font>
 
 
