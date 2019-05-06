@@ -19,7 +19,7 @@ author_profile: true
 <font face="helvetica" color="#3044F7" size="5">
 <p>Thesis</p></font>
 
-<font face="helvetica" color="black" size="3"> 
+<font face="helvetica" size="3"> 
 
 <p><b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
@@ -29,7 +29,7 @@ author_profile: true
 <font face="helvetica" color="#3044F7" size="5">
 <p>Patents</p></font>
 
-<font face="helvetica" color="black" size="3"> 
+<font face="helvetica" size="3"> 
 
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Sensory network for persuasive and pervasive virtualization of physical sensors into renderable time service", Indian patent filed in November 2014 (Ref: 1145/KOL/2014).</p>
 
@@ -40,7 +40,7 @@ author_profile: true
 <font face="helvetica" color="#3044F7" size="5">
 <p>Journals</p></font>
 
-<font face="helvetica" color="black" size="3"> 
+<font face="helvetica" size="3"> 
  
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a> </p>
 
@@ -73,7 +73,7 @@ author_profile: true
 <p>Conferences</p></font>
 
 
-<font face="helvetica" color="black" size="3">
+<font face="helvetica" size="3">
 <p><b>S. Chatterjee</b>, and C. Morin, "Experimental Study on the Performance and Resource Utilization of Data Streaming Frameworks," <i>IEEE/ACM  Symposium on Cluster, Cloud and Grid Computing (CCGrid)</i>, 2018. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p><b>S. Chatterjee</b>, and S. Misra, “Adaptive Data Caching for Provisioning Sensors-As-A-Service," <i>IEEE BlackSeaCom</i>, 2016. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf" download><img src="/images/download.png" height="10" width="20"></a></p>
