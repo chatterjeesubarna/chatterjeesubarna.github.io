@@ -19,7 +19,7 @@ author_profile: true
 <font face="helvetica" size="2">
 <p><i>Last updated on April 2019</i></p></font>
 
-<font face="helvetica" color="#3044F7" size="5">
+<font face="helvetica" color="#3044F7" size="4">
 <p>Thesis</p></font>
 
 <font face="helvetica" size="3"> 
@@ -29,7 +29,7 @@ author_profile: true
 </font>
 
 
-<font face="helvetica" color="#3044F7" size="5">
+<font face="helvetica" color="#3044F7" size="4">
 <p>Patents</p></font>
 
 <font face="helvetica" size="3"> 
@@ -40,7 +40,7 @@ author_profile: true
 <p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
 </font>
 
-<font face="helvetica" color="#3044F7" size="5">
+<font face="helvetica" color="#3044F7" size="4">
 <p>Journals</p></font>
 
 <font face="helvetica" size="3"> 
@@ -72,7 +72,7 @@ author_profile: true
 
 </font>
 
-<font face="helvetica" color="#3044F7" size="5">
+<font face="helvetica" color="#3044F7" size="4">
 <p>Conferences</p></font>
 
 
