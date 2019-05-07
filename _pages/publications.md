@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -15,6 +15,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<font face="helvetica" size="2">
+<p><i>Last updated on April 2019</i></p></font>
 
 <font face="helvetica" color="#3044F7" size="5">
 <p>Thesis</p></font>
