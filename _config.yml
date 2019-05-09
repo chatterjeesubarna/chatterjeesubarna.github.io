@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  awards:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -228,6 +228,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
