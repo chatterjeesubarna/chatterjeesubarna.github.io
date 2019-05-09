@@ -27,9 +27,7 @@ img {
   border: none ;
   padding: 10px;
 }
-br {
-   lmargin-bottom:-1px; 
-}
+
 </style>
 
 <br><br>
@@ -41,16 +39,16 @@ br {
 <!--<font face="helvetica" size="4"><p>Professional Experience</p></font>-->
 
 <p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Post-doctoral Fellow at Harvard University <br> <i>2019 onwards</i></p><hr>
+Post-doctoral Fellow <br>John A. Paulson School of Engineering and Applied Sciences, Harvard University <br> <font size="2"> 2019 - present</font></p><hr>
 
 <p><img src="/images/inria.png" alt="harvard" style="width:70px;height:30px;margin-right:15px;">
-Post-doctoral Researcher at Inria Rennes, Bretagne-Atlantique <br> <i>2017 - 2018</i></p><hr>
+Post-doctoral Researcher <br>Team Myriads, Inria Rennes, Bretagne-Atlantique <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2017 - 2018</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-TCS Research Scholar at Indian Institute of Technology Kharagpur <br> <i>2013 - 2017</i></p><hr>
+TCS Research Scholar <br>Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2013 - 2017</font></p><hr>
 
 <p><img src="/images/cognizant.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Programmer Analyst & Trainee at Cognizant Technology Solutions Ltd. <br> <i>2012 - 2013</i></p><hr>
+Programmer Analyst & Trainee <br>Cognizant Technology Solutions Ltd. <br> <font size="2">2012 - 2013</font></p><hr>
 
 <br><br>
 
@@ -60,10 +58,16 @@ Programmer Analyst & Trainee at Cognizant Technology Solutions Ltd. <br> <i>2012
 <br>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Doctor of Philosophy, Indian Institute of Technology Kharagpur <br> <i>2013 - 2017</i></p><hr>
+Doctor of Philosophy <br> Department of Computer Science and Engineering<br> Indian Institute of Technology Kharagpur <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2013 - 2017</font></p><hr>
 
 <p><img src="/images/IEM.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Bachelor of Technology, Institute of Engineering and Management <br> <i>2008 - 2012</i></p><hr>
+Bachelor of Technology <br> Department of Computer Science and Engineering <br> Institute of Engineering and Management, India <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2008 - 2012</font></p><hr>
+
+<p><img src="/images/pb.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Higher Secondary Education <br> Patha Bhavan, West Bengal, India <br> <font size="2">2006 - 2008</font></p><hr>
+
+<p><img src="/images/jds.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Secondary Education <br> Julien Day School, Elgin Road, India <br> <font size="2">2005 - 2006</font></p><hr>
 
 
 
