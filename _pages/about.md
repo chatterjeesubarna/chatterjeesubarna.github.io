@@ -16,3 +16,54 @@ redirect_from:
 
 
 <font face="helvetica" size="3"><p align="justify">My favourite passtime is a pseudo-random selection from a set that includes touring and exploring bizarre yet alluring geographic locations, staying musical (<i>in a mostly Indian way</i>), playing board/card games, devouring and cooking delicious meals, and debating on the different facets and philosophy in the lives of human beings! </p></font>
+
+<style>
+img {
+  float: left;
+}
+.boxed {
+  background-color: #D6EAF8;
+  color: #3044F7;
+  border: none ;
+  padding: 10px;
+}
+br {
+   lmargin-bottom:-1px; 
+}
+</style>
+
+<br><br>
+
+<div class="boxed">
+  <font face="helvetica" size="4">Professional Experience</font>
+</div>
+<br>
+<!--<font face="helvetica" size="4"><p>Professional Experience</p></font>-->
+
+<p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Post-doctoral Fellow at Harvard University <br> <i>2019 onwards</i></p><hr>
+
+<p><img src="/images/inria.png" alt="harvard" style="width:70px;height:30px;margin-right:15px;">
+Post-doctoral Researcher at Inria Rennes, Bretagne-Atlantique <br> <i>2017 - 2018</i></p><hr>
+
+<p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+TCS Research Scholar at Indian Institute of Technology Kharagpur <br> <i>2013 - 2017</i></p><hr>
+
+<p><img src="/images/cognizant.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Programmer Analyst & Trainee at Cognizant Technology Solutions Ltd. <br> <i>2012 - 2013</i></p><hr>
+
+<br><br>
+
+<div class="boxed">
+  <font face="helvetica" size="4">Educational Qualification</font>
+</div>
+<br>
+
+<p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Doctor of Philosophy, Indian Institute of Technology Kharagpur <br> <i>2013 - 2017</i></p><hr>
+
+<p><img src="/images/IEM.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+Bachelor of Technology, Institute of Engineering and Management <br> <i>2008 - 2012</i></p><hr>
+
+
+
