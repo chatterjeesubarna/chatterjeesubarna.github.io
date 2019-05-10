@@ -23,7 +23,7 @@ img {
 }
 .boxed {
   background-color: #D6EAF8;
-  color: #3044F7;
+  color: black;
   border: none ;
   padding: 10px;
 }
@@ -33,29 +33,30 @@ img {
 <br><br>
 
 <div class="boxed">
-  <font face="helvetica" size="4">Professional Experience</font>
-</div>
-<br>
-<!--<font face="helvetica" size="4"><p>Professional Experience</p></font>-->
+  <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
-<p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
+<font color="black">
+  <p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Post-doctoral Fellow <br>John A. Paulson School of Engineering and Applied Sciences, Harvard University <br> <font size="2"> 2019 - present</font></p><hr>
 
 <p><img src="/images/inria.png" alt="harvard" style="width:70px;height:30px;margin-right:15px;">
 Post-doctoral Researcher <br>Team Myriads, Inria Rennes, Bretagne-Atlantique <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2017 - 2018</font></p><hr>
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-TCS Research Scholar <br>Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2013 - 2017</font></p><hr>
+Ph.D. Scholar <br>Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">2013 - 2017</font></p><hr>
 
 <p><img src="/images/cognizant.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Programmer Analyst & Trainee <br>Cognizant Technology Solutions Ltd. <br> <font size="2">2012 - 2013</font></p><hr>
+</font>
+</div>
+<br>
+
 
 <br><br>
 
 <div class="boxed">
-  <font face="helvetica" size="4">Educational Qualification</font>
-</div>
-<br>
+  <font face="helvetica" size="5">Educational Qualification</font> <br><br>
+
 
 <p><img src="/images/iit.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Doctor of Philosophy <br> Department of Computer Science and Engineering<br> Indian Institute of Technology Kharagpur <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2013 - 2017</font></p><hr>
@@ -69,5 +70,7 @@ Higher Secondary Education <br> Patha Bhavan, West Bengal, India <br> <font size
 <p><img src="/images/jds.jpg" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Secondary Education <br> Julien Day School, Elgin Road, India <br> <font size="2">2005 - 2006</font></p><hr>
 
+</div>
+<br>
 
 
