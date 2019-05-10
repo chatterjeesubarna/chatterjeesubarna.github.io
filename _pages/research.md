@@ -16,14 +16,7 @@ author_profile: true
 {% endfor %}
 
 <style>
-.boxed {
-  background-color: #D6EAF8;
-  color: black;
-  border: none ;
-  padding: 0px;
-}
 p { margin-bottom: -10px; }
-
 </style>
 
 <font face="helvetica" size="3"> <p>Broadly speaking, in my Tyrion-sized research career, I have worked on the following topics.</p><br>
