@@ -16,6 +16,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<style>
+p { margin-bottom: 0px; }
+</style>
+
+
 <font face="helvetica" size="2">
 <p><i>Last updated on April 2019</i></p></font>
 
@@ -24,9 +29,9 @@ author_profile: true
 
 <font face="helvetica" size="3"> 
 
-<p><b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a><br>
 
-</font>
+</font><br>
 
 
 <font face="helvetica" color="#3044F7" size="4">
@@ -38,7 +43,7 @@ author_profile: true
 
 
 <p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
-</font>
+</font><br>
 
 <font face="helvetica" color="#3044F7" size="4">
 <p>Journals</p></font>
@@ -70,7 +75,7 @@ author_profile: true
 	 
 <p>S. Misra, <b>S. Chatterjee</b>, and M. S. Obaidat, "On Theoretical Modeling of Sensor-Cloud: A Paradigm Shift From Wireless Sensor Network," <i>IEEE Systems Journal</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
-</font>
+</font><br>
 
 <font face="helvetica" color="#3044F7" size="4">
 <p>Conferences</p></font>
