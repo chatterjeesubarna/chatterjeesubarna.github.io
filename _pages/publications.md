@@ -55,15 +55,15 @@ p { margin-bottom: 0px; }
 
 <p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
-<p>P. Bhavathankar, <b>S. Chatterjee</b>, and S. Misra, “Link-Quality Aware Path Selection in the Presence of Proactive Jamming in Fallible Wireless Sensor Networks," <i>IEEE Transactions on Communications</i>, 2017. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<p>P. Bhavathankar, <b>S. Chatterjee</b>, and S. Misra, “Link-Quality Aware Path Selection in the Presence of Proactive Jamming in Fallible Wireless Sensor Networks," <i>IEEE Transactions on Communications</i>, 2017. <a href="https://chatterjeesubarna.github.io/files/TCOM.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Analysis of Fog Computing: The Convergence of Cloud Computing to Green Computing," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/fog.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p><b>S. Chatterjee</b>, S. Misra, and S. U. Khan, “Optimal Data Center Scheduling for Quality of Service Management in Sensor-cloud," <i>IEEE Transactions on Cloud Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
-<p><b>S. Chatterjee</b>, R. Ladia, and S. Misra, “A Dynamic Optimal Pricing Scheme for Heterogeneous Service-Oriented Architecture for Sensor-cloud Infrastructure," <i>IEEE Transactions on Services Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<p><b>S. Chatterjee</b>, R. Ladia, and S. Misra, “A Dynamic Optimal Pricing Scheme for Heterogeneous Service-Oriented Architecture for Sensor-cloud Infrastructure," <i>IEEE Transactions on Services Computing</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/pricing.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
-<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and A. K. Mandal, “QoS-Aware Sensor Allocation for Target Tracking in Sensor-Cloud," <i>Ad Hoc Networks, Elsevier</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<p>S. Misra, A. Singh, <b>S. Chatterjee</b>, and A. K. Mandal, “QoS-Aware Sensor Allocation for Target Tracking in Sensor-Cloud," <i>Ad Hoc Networks, Elsevier</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/AdHoc.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, “Evacuation and Emergency Management Using a Federated Cloud," <i>IEEE Cloud Computing Magazine</i>, 2015. <a href="https://chatterjeesubarna.github.io/files/Mag.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
