@@ -50,7 +50,7 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3"> 
 
-<p>S. Idreos, K. Zoumpatianos, <b>S. Chatterjee</b>, W. Qin, A. Wasay, B. Hentschel, M. Kester, N. Dayan, D. Guo, M. Kang, and Y. Sun, "Learning Data Structure Alchemy," <i>Bulletin of the IEEE Computer Society Technical Committee on Data Engineering</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a> </p>
+<p>S. Idreos, K. Zoumpatianos, <b>S. Chatterjee</b>, W. Qin, A. Wasay, B. Hentschel, M. Kester, N. Dayan, D. Guo, M. Kang, and Y. Sun, "Learning Data Structure Alchemy," <i>Bulletin of the IEEE Computer Society Technical Committee on Data Engineering</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/learningdatastructurealchemy.pdf"><img src="/images/download.png" height="10" width="20"></a> </p>
  
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a> </p>
 
