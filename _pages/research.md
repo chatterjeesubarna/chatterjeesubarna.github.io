@@ -19,10 +19,10 @@ author_profile: true
 p { margin-bottom: -10px; }
 </style>
 
-<font face="helvetica" size="3"> <p>Broadly speaking, in my Tyrion-sized research career, I have worked on the following topics.</p><br>
+<font face="helvetica" size="3"> <p>In my Tyrion-sized research career, I have worked on the following topics.</p><br>
 
 
-<font face="helvetica" color="black" size="4">
+<font face="helvetica" color="black" size="4.5">
           <p>Data stream processing for IoT applications</p></font>
 <font face="helvetica" size="3"> 
   <p align="justify">A streaming platform cannot be categorized as “good” or “bad” as every platform is differently designed to process specific stream types. Each platform is unique about the nature of data sets, the variable message processing semantics, and the differential hardware expectations. Therefore, it is extremely difficult, yet crucial, to judicially select the streaming platform that not only suits the application requirements but also abides by the resource offerings of the physical infrastructure of the host organization (or an end-user). To address this issue, I focused on a thorough comparative analysis of three data stream processing platforms that are chosen based on their potential to process both streams and batches in real-time. </p> <br>
@@ -30,7 +30,7 @@ p { margin-bottom: -10px; }
 
 
 
-<font face="helvetica" color="black" size="4">
+<font face="helvetica" color="black" size="4.5">
           <p>Sensor-cloud infrastructure</p></font>
 
  <font face="helvetica" size="3"> 
@@ -40,7 +40,7 @@ p { margin-bottom: -10px; }
 
 
 
- <font face="helvetica" color="black" size="4">
+ <font face="helvetica" color="black" size="4.5">
             <p>Cloud-assisted smart healthcare</p></font>
  <font face="helvetica" size="3"> 
     <p align="justify">This research focused the domain of cloud-assisted smart healthcare as it is extremely relevant from an Indian (developing country) perspective. In order to ensure an optimal routing strategy, the work establishes an architecture in which health data from patients are transmitted from wearable body sensor nodes (that sense and report physiological parameters of human body) to cloud servers for remote analysis and diagnosis. Later, this architecture was further revisited from an ambulatory healthcare perspective in collaboration with the All India Institute of Medical Sciences, (AIIMS) Bhubaneswar, and B. C. Roy Hospital, India. The work further matured as we proposed a privacy-aware ambulatory healthcare system using wireless body area networks (WBANS). </p>
