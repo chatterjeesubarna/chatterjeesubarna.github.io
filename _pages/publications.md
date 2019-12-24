@@ -79,7 +79,7 @@ p { margin-bottom: 0px; }
 
 </font><br>
 
-<font face="helvetica" color="#3044F7" size="4">
+<font face="helvetica" color="#A93226" size="4">
 <p>Conferences</p></font>
 
 
