@@ -37,7 +37,7 @@ p { margin-bottom: -10px; }
 	<font face="helvetica" size="3"> 
 	<p align="justify"><ul>
 	<li>Member of <a href="https://embeddedethics.seas.harvard.edu"> Embedded EthiCS @ Harvard </a> (2019 - )</li>
-	<li>Awards Co-Chair of the N2Women Board (2017 - 2018)</li>
+	<li>Awards Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2017 - 2018)</li>
 </ul>
 </p> <br>
 </font>
@@ -62,7 +62,7 @@ p { margin-bottom: -10px; }
 	<p>Reviewer (Conferences)</p></font>
 	<font face="helvetica" size="3"> 
 		<p align="justify"><ul>
-			<li>IEEE International Conference on BigData (2018)</li>
+			<li>IEEE BigData Congress (2018, 2019)</li>
 			<li>IEEE International Conference on Fog and Edge Computing (2017, 2018)</li>
 			<li>IEEE International Conference on Communications (2015, 2016)</li>
 			<li>IEEE TechSym (2014, 2016)</li>
