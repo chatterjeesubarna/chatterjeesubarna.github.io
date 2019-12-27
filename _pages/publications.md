@@ -22,28 +22,8 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on May 2019</i></p></font>
+<p><i>Last updated on December 2019</i></p></font>
 
-<font face="helvetica" color="#A93226" size="4">
-<p>Thesis</p></font>
-
-<font face="helvetica" size="3"> 
-
-<b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a><br>
-
-</font><br>
-
-
-<font face="helvetica" color="#A93226" size="4">
-<p>Patents</p></font>
-
-<font face="helvetica" size="3"> 
-
-<p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Sensory network for persuasive and pervasive virtualization of physical sensors into renderable time service", Indian patent filed in November 2014 (Ref: 1145/KOL/2014).</p>
-
-
-<p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
-</font><br>
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Journals</p></font>
@@ -100,6 +80,27 @@ p { margin-bottom: 0px; }
 	 
 <p><b>S. Chatterjee</b>, and S. Misra, “Dynamic and Adaptive Data Caching Mechanism for Virtualization within Sensor-Cloud," <i>IEEE International Conference on Advanced Networks and Telecommunication Systems (IEEE ANTS)</i>, 2014. <a href="https://chatterjeesubarna.github.io/files/ANTS.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
-</font>
+</font><br>
+
+<font face="helvetica" color="#A93226" size="4">
+<p>Thesis</p></font>
+
+<font face="helvetica" size="3"> 
+
+<b>S. Chatterjee</b>, "Sensors-As-A-Service: Towards the Conceptualization of Sensor-Cloud", Ph.D. Thesis, July, 2017. <a href="https://chatterjeesubarna.github.io/files/Thesis.pdf"><img src="/images/download.png" height="10" width="20"></a><br>
+
+</font><br>
+
+
+<font face="helvetica" color="#A93226" size="4">
+<p>Patents</p></font>
+
+<font face="helvetica" size="3"> 
+
+<p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Sensory network for persuasive and pervasive virtualization of physical sensors into renderable time service", Indian patent filed in November 2014 (Ref: 1145/KOL/2014).</p>
+
+
+<p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, E. A. Ansari, D. Ghatak, and S. Sarkar, "A Privacy-Aware ambulatory healthcare system using wireless body area networks (WBANS).", Indian patent filed in January 2016 (Ref: 201631000214).</p>
+</font><br>
 
 
