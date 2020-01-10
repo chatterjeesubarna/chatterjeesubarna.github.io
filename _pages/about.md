@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155167944-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-155167944-1');
-</script>
-
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 
 <font face="helvetica" size="3"><p align="justify">I am a post-doctoral researcher working with Stratos Idreos at <a href="http://daslab.seas.harvard.edu">Data Systems laboratory</a> at Harvard University since January 2019. Before that I was a post-doctoral researcher (2017-2018)  with the <a href="https://team.inria.fr/myriads/">Myriads</a> team at Inria, Rennes in France. I did my Ph.D. from <a href="http://www.iitkgp.ac.in">Indian Institute of Technology Kharagpur</a>, India from 2013-2017. Broadly speaking, I work on data science with my research focus centering around different sub-directions at different times in my career.</p></font>
