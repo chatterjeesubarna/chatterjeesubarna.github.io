@@ -29,7 +29,7 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3"> 
 
-<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, "Sensors, Cloud, and Fog: The Enabling Technologies for the Internet of Things," <i>CRC Press, Taylor & Francis Group</i>, 2019. <a href="https://www.amazon.com/Sensors-Cloud-Fog-Sudip-Misra-dp-0367196123/dp/0367196123/ref=mt_paperback?_encoding=UTF8&me=&qid="><img src="/images/buy.png" height="20" width="40"></a></p>
+<p>S. Misra, S. Sarkar, and <b>S. Chatterjee</b>, "Sensors, Cloud, and Fog: The Enabling Technologies for the Internet of Things," <i>CRC Press, Taylor & Francis Group</i>, 2019. <a href="https://www.amazon.com/Sensors-Cloud-Fog-Sudip-Misra-dp-0367196123/dp/0367196123/ref=mt_paperback?_encoding=UTF8&me=&qid="><img src="/images/buy.png" height="20" width="40"></a></p>
 
 </font><br>
 
