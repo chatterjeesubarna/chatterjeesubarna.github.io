@@ -22,8 +22,16 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on December 2019</i></p></font>
+<p><i>Last updated on May 2020</i></p></font>
 
+<font face="helvetica" color="#A93226" size="4">
+<p>Books</p></font>
+
+<font face="helvetica" size="3"> 
+
+<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, "Sensors, Cloud, and Fog: The Enabling Technologies for the Internet of Things," <i>CRC Press, Taylor & Francis Group</i>, 2019. <a href="https://www.amazon.com/Sensors-Cloud-Fog-Sudip-Misra-dp-0367196123/dp/0367196123/ref=mt_paperback?_encoding=UTF8&me=&qid="><img src="/images/buy.png" height="10" width="20"></a></p>
+
+</font><br>
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Journals</p></font>
@@ -35,7 +43,7 @@ p { margin-bottom: 0px; }
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Big-Sensor-Cloud Infrastructure: A Holistic Prototype for Provisioning Sensors-as-a-Service," <i>IEEE Transactions on Cloud Computing</i>, 2019. <a href="https://chatterjeesubarna.github.io/files/BSCI.pdf"><img src="/images/download.png" height="10" width="20"></a> </p>
 
 
-<p>S. Sarkar, <b>S. Chatterjee</b>, and S. Misra, R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<p>S. Sarkar, <b>S. Chatterjee</b>, S. Misra, and R. Kudupudi, “Privacy-Aware Blind Cloud Framework for Advanced Healthcare," <i>IEEE Communication Letters</i>, 2017.<a href="https://chatterjeesubarna.github.io/files/privacy.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p>P. Bhavathankar, <b>S. Chatterjee</b>, and S. Misra, “Link-Quality Aware Path Selection in the Presence of Proactive Jamming in Fallible Wireless Sensor Networks," <i>IEEE Transactions on Communications</i>, 2017. <a href="https://chatterjeesubarna.github.io/files/TCOM.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
@@ -64,6 +72,8 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="3">
+<p>S. Luo, <b>S. Chatterjee</b>, R. Ketsetdis, N. Dayan, W. Qin, and S. Idreos, "Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2020. <a href="https://chatterjeesubarna.github.io/files/rosetta.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+
 <p><b>S. Chatterjee</b>, and C. Morin, "Experimental Study on the Performance and Resource Utilization of Data Streaming Frameworks," <i>IEEE/ACM  Symposium on Cluster, Cloud and Grid Computing (CCGrid)</i>, 2018. <a href="https://chatterjeesubarna.github.io/files/CCGRID.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
 <p><b>S. Chatterjee</b>, and S. Misra, “Adaptive Data Caching for Provisioning Sensors-As-A-Service," <i>IEEE BlackSeaCom</i>, 2016. <a href="https://chatterjeesubarna.github.io/files/BlackSeaCom.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
