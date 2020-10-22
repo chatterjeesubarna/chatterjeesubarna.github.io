@@ -29,7 +29,12 @@ img {
 p { margin-bottom: -10px; }
 </style>
 
+
+
 <div class="boxed">
+
+	<font face="helvetica" size="2">
+<p><i>Last updated on October 2020</i></p></font><br><br>
 
 
 	<font face="helvetica" color="#A93226" size="4.5">
@@ -48,8 +53,9 @@ p { margin-bottom: -10px; }
 	<p>Program Committee Member</p></font>
 
 	<font face="helvetica" size="3"> 
-	<p align="justify"><ul>
-	<li>The WebConf, 2020</li>
+	<p ACM="justify"><ul>
+	<li>ACM SIGMOD, 2021</li>
+	<li>The WebConf, 2020, Internet of Things Data Analytics (IoTDA) 2020</li>
 	<li>ACM MobiCom workshop on Future Industrial Communication Networks (FICN), 2018</li>
 	<li>IEEE SmartData, 2019</li>
 	<li>IEEE International Conference on BigData, 2018</li>
