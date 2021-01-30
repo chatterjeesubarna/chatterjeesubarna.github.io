@@ -34,13 +34,14 @@ p { margin-bottom: -10px; }
 <div class="boxed">
 
 	<font face="helvetica" size="2">
-<p><i>Last updated on October 2020</i></p></font><br><br>
+<p><i>Last updated on January 2021</i></p></font><br><br>
 
 
 	<font face="helvetica" color="#A93226" size="4.5">
 	<p>Organizations and Initiatives</p></font>
 	<font face="helvetica" size="3"> 
 	<p align="justify"><ul>
+	<li>Mentoring Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2021 - )</li>
 	<li>Member of <a href="https://embeddedethics.seas.harvard.edu"> Embedded EthiCS @ Harvard </a> (2019 - )</li>
 	<li>Awards Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2017 - 2018)</li>
 </ul>
