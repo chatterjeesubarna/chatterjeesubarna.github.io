@@ -22,7 +22,7 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on May 2020</i></p></font>
+<p><i>Last updated on May 2021</i></p></font>
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Books</p></font>
@@ -40,6 +40,8 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="3">
+<p>A. Wasay, <b>S. Chatterjee</b>, and S. Idreos, "Deep Learning: Systems and Responsibility," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2021. <a href=""></a></p>
+
 <p>S. Luo, <b>S. Chatterjee</b>, R. Ketsetdis, N. Dayan, W. Qin, and S. Idreos, "Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2020. <a href="https://chatterjeesubarna.github.io/files/rosetta.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p><b>S. Chatterjee</b>, and C. Morin, "Experimental Study on the Performance and Resource Utilization of Data Streaming Frameworks," <i>IEEE/ACM  Symposium on Cluster, Cloud and Grid Computing (CCGrid)</i>, 2018. <a href="https://chatterjeesubarna.github.io/files/CCGRID.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
