@@ -34,7 +34,7 @@ p { margin-bottom: -10px; }
 <div class="boxed">
 
 	<font face="helvetica" size="2">
-<p><i>Last updated on January 2021</i></p></font><br><br>
+<p><i>Last updated on May 2021</i></p></font><br><br>
 
 
 	<font face="helvetica" color="#A93226" size="4.5">
@@ -42,6 +42,7 @@ p { margin-bottom: -10px; }
 	<font face="helvetica" size="3"> 
 	<p align="justify"><ul>
 	<li>Mentoring Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2021 - )</li>
+	<li>ACM SIGMOD <a href="https://reproducibility.sigmod.org/history.html"> Reproducibility Committee </a> (2020)</li> 
 	<li>Member of <a href="https://embeddedethics.seas.harvard.edu"> Embedded EthiCS @ Harvard </a> (2019 - )</li>
 	<li>Awards Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2017 - 2018)</li>
 </ul>
@@ -69,6 +70,7 @@ p { margin-bottom: -10px; }
 	<p>Reviewer (Conferences)</p></font>
 	<font face="helvetica" size="3"> 
 		<p align="justify"><ul>
+			<li>Review Board PVLDB (2022)</li>
 			<li>IEEE BigData Congress (2018, 2019)</li>
 			<li>IEEE International Conference on Fog and Edge Computing (2017, 2018)</li>
 			<li>IEEE International Conference on Communications (2015, 2016)</li>
