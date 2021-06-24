@@ -22,7 +22,7 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on May 2021</i></p></font>
+<p><i>Last updated on June 2021</i></p></font>
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Books</p></font>
