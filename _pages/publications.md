@@ -40,9 +40,9 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="3">
-<p>A. Wasay, <b>S. Chatterjee</b>, and S. Idreos, "Deep Learning: Systems and Responsibility," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2021. <a href=""></a></p>
+<p>A. Wasay, <b>S. Chatterjee</b>, and S. Idreos, "Deep Learning: Systems and Responsibility," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2021. <a href="https://chatterjeesubarna.github.io/files/DL_Tutorial.pdf"><img src="/images/download.png" height="10" width="20"></a> | <a href="https://www.youtube.com/watch?v=naAq005gV5o&t=2s" target="_blank"><img src="/images/YT" height="15" width="20"></a></p>
 
-<p>S. Luo, <b>S. Chatterjee</b>, R. Ketsetdis, N. Dayan, W. Qin, and S. Idreos, "Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2020. <a href="https://chatterjeesubarna.github.io/files/rosetta.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+<p>S. Luo, <b>S. Chatterjee</b>, R. Ketsetdis, N. Dayan, W. Qin, and S. Idreos, "Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2020. <a href="https://chatterjeesubarna.github.io/files/rosetta.pdf"><img src="/images/download.png" height="10" width="20"></a> | <a href="https://www.youtube.com/watch?v=0uQ3a_xQJTQ" target="_blank"><img src="/images/YT" height="15" width="20"></a></p>
 
 <p><b>S. Chatterjee</b>, and C. Morin, "Experimental Study on the Performance and Resource Utilization of Data Streaming Frameworks," <i>IEEE/ACM  Symposium on Cluster, Cloud and Grid Computing (CCGrid)</i>, 2018. <a href="https://chatterjeesubarna.github.io/files/CCGRID.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 	 
