@@ -114,6 +114,8 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3"> 
 
+<p>S. Idreos, <b>S. Chatterjee</b>, M. Jagadeesan, and W. Qin, "Optimized Self-designing Key-Value Storage Engine," Docket No.: HRV-045/107105-5045, filed in 2021.</p>
+
 <p><b>S. Chatterjee</b>, A. Roy, S. K. Roy, S. Misra, M. S. Bhogal, and R. Daga, "Sensory network for persuasive and pervasive virtualization of physical sensors into renderable time service", Indian patent filed in November 2014 (Ref: 1145/KOL/2014).</p>
 
 
