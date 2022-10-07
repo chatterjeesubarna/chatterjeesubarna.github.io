@@ -41,6 +41,8 @@ p { margin-bottom: 0px; }
 
 <font face="helvetica" size="3">
 
+<p>K. Vaidya, <b>S. Chatterjee</b>, E. Knorr, M. Mitzenmacher, S. Idreos, and T. Kraska, "SNARF: A Learning-Enhanced Range Filter," <i>Proceedings of the Very Large Databases Endowment (VLDB)</i>, 2022. <a href="https://chatterjeesubarna.github.io/files/SNARF.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
+
 <p><b>S. Chatterjee</b>, M. Jagadeesan, W. Qin, and S. Idreos, "Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine," <i>Proceedings of the Very Large Databases Endowment (VLDB)</i>, 2022. <a href="https://chatterjeesubarna.github.io/files/cosine.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p>A. Wasay, <b>S. Chatterjee</b>, and S. Idreos, "Deep Learning: Systems and Responsibility," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2021. <a href="https://chatterjeesubarna.github.io/files/DL_Tutorial.pdf"><img src="/images/download.png" height="10" width="20"></a> | <a href="https://www.youtube.com/watch?v=naAq005gV5o&t=2" target="_blank"><img src="/images/YT" height="15" width="20"></a></p>
