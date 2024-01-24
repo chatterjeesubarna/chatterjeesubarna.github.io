@@ -22,7 +22,7 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="2">
-<p><i>Last updated on February 2022</i></p></font>
+<p><i>Last updated on January 2024</i></p></font>
 
 <font face="helvetica" color="#A93226" size="4">
 <p>Books</p></font>
@@ -40,6 +40,8 @@ p { margin-bottom: 0px; }
 
 
 <font face="helvetica" size="3">
+
+<p><b>S. Chatterjee</b>, M. Pekala, L. Lruglyak, and S. Idreos, "Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines," <i>Proceedings of the ACM SIGMOD International Conference on Management of Data</i>, 2024. <a href="https://chatterjeesubarna.github.io/files/Limousine.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
 <p>K. Vaidya, <b>S. Chatterjee</b>, E. Knorr, M. Mitzenmacher, S. Idreos, and T. Kraska, "SNARF: A Learning-Enhanced Range Filter," <i>Proceedings of the Very Large Databases Endowment (VLDB)</i>, 2022. <a href="https://chatterjeesubarna.github.io/files/SNARF.pdf"><img src="/images/download.png" height="10" width="20"></a></p>
 
