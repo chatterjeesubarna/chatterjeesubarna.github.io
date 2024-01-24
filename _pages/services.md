@@ -57,10 +57,8 @@ p { margin-bottom: -10px; }
 	<font face="helvetica" size="3"> 
 	<p ACM="justify"><ul>
 	<li>EDBT, 2025</li>
-	<li>SIGMOD, 2025</li>
-	<li>SIGMOD, 2024</li>
+	<li>ACM SIGMOD, 2025, 2024, 2021</li>
 	<li>ICDE, 2022</li>
-	<li>ACM SIGMOD, 2021</li>
 	<li>The WebConf, 2020, Internet of Things Data Analytics (IoTDA) 2020</li>
 	<li>ACM MobiCom workshop on Future Industrial Communication Networks (FICN), 2018</li>
 	<li>IEEE SmartData, 2019</li>
