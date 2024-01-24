@@ -34,7 +34,7 @@ p { margin-bottom: -10px; }
 <div class="boxed">
 
 	<font face="helvetica" size="2">
-<p><i>Last updated on June 2021</i></p></font><br><br>
+<p><i>Last updated on January 2024</i></p></font><br><br>
 
 
 	<font face="helvetica" color="#A93226" size="4.5">
@@ -56,6 +56,9 @@ p { margin-bottom: -10px; }
 
 	<font face="helvetica" size="3"> 
 	<p ACM="justify"><ul>
+	<li>EDBT, 2025</li>
+	<li>SIGMOD, 2025</li>
+	<li>SIGMOD, 2024</li>
 	<li>ICDE, 2022</li>
 	<li>ACM SIGMOD, 2021</li>
 	<li>The WebConf, 2020, Internet of Things Data Analytics (IoTDA) 2020</li>
