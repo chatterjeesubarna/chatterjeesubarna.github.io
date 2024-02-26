@@ -10,12 +10,14 @@ redirect_from:
 
 <!-- <font face="helvetica" size="3"><p align="justify">Hi, this is my official website!</p></font> -->
 
-<font face="helvetica" size="3"><p align="justify">I am a post-doctoral researcher working with Prof. Stratos Idreos at <a href="http://daslab.seas.harvard.edu">Data Systems laboratory</a> at Harvard University since January 2019. Before that I was a post-doctoral researcher (2017-2018)  with the <a href="https://team.inria.fr/myriads/">Myriads</a> team at Inria, Rennes in France. I did my Ph.D. from <a href="http://www.iitkgp.ac.in">Indian Institute of Technology Kharagpur</a>, India from 2013-2017. Broadly speaking, I work on data science with my research focus centering around different sub-directions at different times in my career.</p></font>
+<font face="helvetica" size="3"><p align="justify">I am a software engineer (R&D) at <a href="https://www.datastax.com/">DataStax</a> since October 2023. I work on designing cloud-native, multi-tenant database architecture through serverless computing to support big-data and generative AI workloads.</p></font>
 
-<font face="helvetica" size="3"><p align="justify">At Harvard, I'm working on data structures and databases and how they impact the bigger technological goals in data science. It is fascinating to observe how the design of data structures have been the core of computer science since its inception and how they still drive the performance of contemporary data analytics in every field of computer science -- from artificial intelligence, to robotics, databases, and systems. In fact, the power of data structures go beyond computer science to basic sciences -- physical science, life science, astronomical science, and even genomics.</p></font>
+<font face="helvetica" size="3"><p align="justify">Before this, I was a post-doctoral researcher at <a href="http://daslab.seas.harvard.edu">Data Systems laboratory</a> at Harvard University since January 2019. I was also a post-doctoral researcher (2017-2018)  with the <a href="https://team.inria.fr/myriads/">Myriads</a> team at Inria, Rennes in France. I did my Ph.D. from <a href="http://www.iitkgp.ac.in">Indian Institute of Technology Kharagpur</a>, India from 2013-2017. Broadly speaking, I work on data science with my research focus centering around different sub-directions at different times in my career.</p></font>
+
+<!-- <font face="helvetica" size="3"><p align="justify">At Harvard, I'm working on data structures and databases and how they impact the bigger technological goals in data science. It is fascinating to observe how the design of data structures have been the core of computer science since its inception and how they still drive the performance of contemporary data analytics in every field of computer science -- from artificial intelligence, to robotics, databases, and systems. In fact, the power of data structures go beyond computer science to basic sciences -- physical science, life science, astronomical science, and even genomics.</p></font> -->
 
 
-<font face="helvetica" size="3"><p align="justify">My favourite passtime is a pseudo-random selection from touring and exploring bizarre but alluring geographic locations, indulging in Indian music, playing board/card games, devouring and cooking delicious meals, and debating on the different facets and philosophy in the lives of human beings! </p></font>
+<font face="helvetica" size="3"><p align="justify">Apart from building technology, I'm a serious (read passionate) player of complex, strategic boaard games. I love touring and exploring bizarre but alluring geographic locations, indulging in Indian music, and devouring and cooking delicious meals! </p></font>
 
 <font face="helvetica" size="3"><p align="justify">You can download my <a href="https://chatterjeesubarna.github.io/files/myCV.pdf" target="_blank">CV</a> here.</p></font>
 
@@ -38,6 +40,9 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
+  <p><img src="/images/datastax.png" alt="datastax" style="width:80px;height:60px;margin-right:15px;">
+Software Engineer (R&D) <br>DataStax <br> <font size="2"> 2023 - present</font></p><hr>
+
   <p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
 Post-doctoral Fellow <br>John A. Paulson School of Engineering and Applied Sciences, Harvard University <br> <font size="2"> 2019 - present</font></p><hr>
 
