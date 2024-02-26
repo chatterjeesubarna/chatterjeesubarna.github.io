@@ -40,11 +40,11 @@ img {
   <font face="helvetica" size="5">Professional Experience</font> <br><br>
 
 <font color="black">
-  <p><img src="/images/datastax.png" alt="datastax" style="width:80px;height:60px;margin-right:15px;">
+  <p><img src="/images/datastax-short.jpeg" alt="datastax" style="width:70px;height:70px;margin-right:15px;">
 Software Engineer (R&D) <br>DataStax <br> <font size="2"> 2023 - present</font></p><hr>
 
   <p><img src="/images/harvard.png" alt="harvard" style="width:70px;height:70px;margin-right:15px;">
-Post-doctoral Fellow <br>John A. Paulson School of Engineering and Applied Sciences, Harvard University <br> <font size="2"> 2019 - present</font></p><hr>
+Post-doctoral Fellow <br>John A. Paulson School of Engineering and Applied Sciences, Harvard University <br> <font size="2"> 2019 - 2023</font></p><hr>
 
 <p><img src="/images/inria.png" alt="harvard" style="width:70px;height:30px;margin-right:15px;">
 Post-doctoral Researcher <br>Team Myriads, Inria Rennes, Bretagne-Atlantique <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="2">2017 - 2018</font></p><hr>
