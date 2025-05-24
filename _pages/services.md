@@ -41,6 +41,7 @@ p { margin-bottom: -10px; }
 	<p>Organizations and Initiatives</p></font>
 	<font face="helvetica" size="3"> 
 	<p align="justify"><ul>
+	<li>Web Chair of <a href="https://acmsocc.org/2023/"> SoCC </a> 2023</li>
 	<li>Mentoring Co-Chair of the <a href="https://n2women.comsoc.org"> N2Women </a> Board (2021 - )</li>
 	<li>ACM SIGMOD <a href="https://reproducibility.sigmod.org/history.html"> Reproducibility Committee </a> (2020)</li> 
 	<li>Member of <a href="https://embeddedethics.seas.harvard.edu"> Embedded EthiCS @ Harvard </a> (2019 - )</li>
@@ -58,7 +59,7 @@ p { margin-bottom: -10px; }
 	<p ACM="justify"><ul>
 	<li>EDBT, 2025</li>
 	<li>ACM SIGMOD, 2025, 2024, 2021</li>
-	<li>ICDE, 2022</li>
+	<li>ICDE, 2026, 2022</li>
 	<li>The WebConf, 2020, Internet of Things Data Analytics (IoTDA) 2020</li>
 	<li>ACM MobiCom workshop on Future Industrial Communication Networks (FICN), 2018</li>
 	<li>IEEE SmartData, 2019</li>
@@ -72,6 +73,7 @@ p { margin-bottom: -10px; }
 	<p>Reviewer (Conferences)</p></font>
 	<font face="helvetica" size="3"> 
 		<p align="justify"><ul>
+			<li>Rapid Response Reviewer PVLDB (2025, 2026)</li>
 			<li>Review Board PVLDB (2022)</li>
 			<li>IEEE BigData Congress (2018, 2019)</li>
 			<li>IEEE International Conference on Fog and Edge Computing (2017, 2018)</li>
