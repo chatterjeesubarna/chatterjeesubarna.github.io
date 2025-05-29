@@ -34,7 +34,7 @@ p { margin-bottom: -10px; }
 <div class="boxed">
 
 	<font face="helvetica" size="2">
-<p><i>Last updated on January 2024</i></p></font><br><br>
+<p><i>Last updated on May 2025</i></p></font><br><br>
 
 
 	<font face="helvetica" color="#A93226" size="4.5">
